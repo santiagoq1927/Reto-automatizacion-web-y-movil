@@ -1,0 +1,12 @@
+
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(Ò¡ÙŒ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ŞŞğÔ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(¯ñòÅ
+‚
+java:S1128"gRemove this unused import 'co.com.choucair.certification.reto.exito.userinterface.SeleccionarProducto'.(¹²™´øÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ
+[
+java:S1128"ERemove this unused import 'net.serenitybdd.screenplay.actions.Click'.(€Äø
+|
+java:S1128	"aRemove this unused import 'org.springframework.validation.beanvalidation.SpringValidatorAdapter'.(×È°ùÿÿÿÿÿ

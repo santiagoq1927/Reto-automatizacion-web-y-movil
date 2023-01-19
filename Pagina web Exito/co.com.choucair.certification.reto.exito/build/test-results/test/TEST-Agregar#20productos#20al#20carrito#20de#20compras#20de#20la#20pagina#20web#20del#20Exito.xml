@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Agregar productos al carrito de compras de la pagina web del Exito" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-19T07:13:43" hostname="CHMEPC93KDL3" time="19.055">
+  <properties/>
+  <testcase name="Agregar productos al carro de compras" classname="Agregar productos al carrito de compras de la pagina web del Exito" time="19.055"/>
+  <system-out><![CDATA[***Lista de productos: [Computador ASUS AMD Ryzen 3 3250U 8 GB 512 GB SSD M515DABQ1524W, Computador HP AMD Ryzen 5 5500U 16 GB 512 GB SSD 15ef2501la]
+***Precio de productos: [$ 1.449.500, $ 2.104.991]
+***Cantidad de productos seleccionado: 2 Productos
+***Lista de productos carro de compras: [Computador ASUS AMD Ryzen 3 3250U 8 GB 512 GB SSD M515DABQ1524W, Computador HP AMD Ryzen 5 5500U 16 GB 512 GB SSD 15ef2501la]
+***Precios de productos carro de compras: [$ 1.449.500, $ 2.104.991]
+***Cantidad de productos en el carrito: 2 Productos
+]]></system-out>
+  <system-err><![CDATA[ene 19, 2023 2:13:43 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172}) on port 9372
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ene 19, 2023 2:13:45 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
